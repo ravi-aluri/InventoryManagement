@@ -68,6 +68,6 @@ npm start
 ## 📧 Contact
 
 For support or feedback:
-**Ravi Aluri**
-Email: [ravialuri2005@gmail.com](mailto:ravialuri2005@gmail.com)
-GitHub: [https://github.com/ravi-aluri](https://github.com/ravi-aluri)
+**Ravi Aluri**   
+Email: [ravialuri2005@gmail.com](mailto:ravialuri2005@gmail.com)   
+GitHub: [https://github.com/ravi-aluri](https://github.com/ravi-aluri)   
