@@ -2,8 +2,6 @@
 
 A simple and efficient **Inventory Stock Management System** designed to help track products, manage stock levels, monitor sales, and generate useful insights for business operations.
 
-This README provides an overview of the project structure, features, installation steps, API details (if applicable), and usage instructions.
-
 ---
 
 ## 🚀 Features
@@ -17,8 +15,13 @@ This README provides an overview of the project structure, features, installatio
 * **Responsive UI** 
 
 ---
-## Tech Stack
 
+## 📦 Tech Stack
+- **React** — Frontend library
+- **Spring Boot** — Backend
+- **Spring Security** — Secure authentication
+- **CSS** — Styling
+- **MySQL** — Database
 
 
 ---
